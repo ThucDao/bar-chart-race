@@ -25,6 +25,8 @@ Note:
   (NAICS: North American Industry Classification System)
 - The chart was made in pure Python, and not a product from flourish.studio.
 
+Please click the Play button above the chart to view animation.
+
 ![](running_bar_chart.gif)
 
 ---
